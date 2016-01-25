@@ -88,3 +88,4 @@ A three credit course typically requires approximately 145 hours of your time to
 ## Other information
 
 * [Applicable University Policy](POLICY.md)
+* [Schedule of Topics](SCHEDULE.md)
