@@ -69,7 +69,7 @@ In about the 10th week, I will describe a substantial project for you to complet
 
 ## Other information
 
-* Applicable University Policy [Information/POLICY.md]()
+* [Applicable University Policy](POLICY.md)
 
 ## Your Time Allocation
 
