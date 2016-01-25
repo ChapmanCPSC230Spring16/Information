@@ -20,6 +20,10 @@
 
 Note: Sections in parentheses wlil not be discussed in class, but may be of interest to you.
 
+## Your Time Allocation
+
+A three credit course typically requires approximately 145 hours of your time to earn a passing grade. The follow are estimates, but I expect that you will be able to succeed with a passing grade (C or better) by budgeting your time as follows:
+
 
 | Task | Estimation | Hours |
 |------|------------|------:|
