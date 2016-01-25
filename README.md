@@ -74,13 +74,13 @@ A three credit course typically requires approximately 145 hours of your time to
 
 | Task | Estimation |  Hours |
 |--|--|--:|
-|Lecture attendance | 29[lec]* 1.5[hr/lec]|43.5 |
-|	Reading | 15[wk]* 1.5[hr/wk] |  22.5 |
-|	Working exercises | 13[wk]* 3.0[hr/wk] |  39.0 |
-|	Piazza contribution |  15[wk] *  0.5[hr/wk] | 7.5 |
+|Lecture attendance | 29[lec]*1.5[hr/lec] | 43.5 |
+|	Reading | 15[wk]*1.5[hr/wk] |  22.5 |
+|	Working exercises | 13[wk]*3.0[hr/wk] |  39.0 |
+|	Piazza contribution |  15[wk]*0.5[hr/wk] | 7.5 |
 |	Mid-term prep | 2.0[hr] |2.0 |
 |	Midterm | 1.5[hr]  | 1.5 |
-|	Project |24.0[hr] | 24.0 |
+|	Project | 24.0[hr] | 24.0 |
 |   Final Prep | 3.0[hr] | 3.0 |
 |   Final  | 2.5[hr] | 2.5 |
 
