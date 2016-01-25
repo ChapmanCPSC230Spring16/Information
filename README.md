@@ -67,16 +67,13 @@ Even though a reading assignment may involve only a few pages, you should expect
 
 In about the 10th week, I will describe a substantial project for you to complete. Details will be supplied later.
 
-## Other information
-
-* [Applicable University Policy](POLICY.md)
 
 ## Your Time Allocation
 
 A three credit course typically requires approximately 145 hours of your time to earn a passing grade. The follow are estimates, but I expect that you will be able to succeed with a passing grade (C or better) by budgeting your time as follows:
 
 | Task | Estimation |  Hours |
-|:--|--|--:|
+|--|--|--:|
 |Lecture attendance | 29[lec]* 1.5[hr/lec]|43.5 |
 |	Reading | 15[wk]* 1.5[hr/wk] |  22.5 |
 |	Working exercises | 13[wk]* 3.0[hr/wk] |  39.0 |
@@ -86,3 +83,7 @@ A three credit course typically requires approximately 145 hours of your time to
 |	Project |24.0[hr] | 24.0 |
 |   Final Prep | 3.0[hr] | 3.0 |
 |   Final  | 2.5[hr] | 2.5 |
+
+## Other information
+
+* [Applicable University Policy](POLICY.md)
