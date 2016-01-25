@@ -74,7 +74,7 @@ A three credit course typically requires approximately 145 hours of your time to
 
 | Task | Estimation |  Hours |
 |--|--|--:|
-|Lecture attendance | 29[lec]*1.5[hr/lec] | 43.5 |
+| Lecture attendance | 29[lec]*1.5[hr/lec] | 43.5 |
 |	Reading | 15[wk]*1.5[hr/wk] |  22.5 |
 |	Working exercises | 13[wk]*3.0[hr/wk] |  39.0 |
 |	Piazza contribution |  15[wk]*0.5[hr/wk] | 7.5 |
